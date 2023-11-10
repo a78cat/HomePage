@@ -5,15 +5,15 @@
 		"favicon": "assets/favicon.ico"
 	},
 	"intro": {
-		"title": "Shrewd Yu",
-		"subtitle": "I'm gone. I'm dead.",
+		"title": "Darling",
+		"subtitle": "Welcome to my website",
 		"enter": "enter",
 		"supportAuthor": false,
 		"background": true
 	},
 	"main": {
 		"name": "极其霸气的猫咪",
-		"signature": "Code & Input & Output",
+		"signature": "生活不易，猫猫叹气",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
